@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://static.wikia.nocookie.net/naruto/images/8/88/Kurama_e_Naruto_partem_para_a_batalha.PNG/revision/latest/scale-to-width-down/985?cb=20130905180732&path-prefix=pt-br" alt="ilustração de um hokage" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 Hi, I'm Matheus Assis.
-I currently study computer science at CESAR and I previously studied business administration at UPE.
+I currently study computer science at CESAR School and I previously studied business administration at UPE.
 </p>
 
 <p align="left">
